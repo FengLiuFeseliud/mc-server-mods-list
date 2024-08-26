@@ -1,3 +1,5 @@
+# 服务端与客户端必装 Mod
+
 ## 科技类
 
 | Mod | 链接 |
@@ -61,6 +63,7 @@
 | 僵尸意识 | 僵尸加强 | <https://www.mcmod.cn/class/298.html> |
 | 末日生存工具包 | 感染系统, 流血系统 | <https://www.mcmod.cn/class/9731.html> |
 | 环境污染 | 空气污染问题 | <https://www.mcmod.cn/class/1336.html> |
+| Protect Mobs From Daylight | 让怪物不受日光的影响 | <https://modrinth.com/mod/protect-mobs-from-daylight> |
 
 ### 环境污染扩展
 
@@ -111,3 +114,34 @@
 | 史诗武士 | 武士盔甲套装和武器 | <https://www.mcmod.cn/class/10120.html> |
 | 精妙背包 | 背包 | <https://www.mcmod.cn/class/3739.html> |
 | 车万女仆 | 女仆 | <https://www.mcmod.cn/class/1796.html> |
+
+## 优化类
+
+| Mod | 作用 | 链接 |
+| :-----------: | :-----------: | :-----------: |
+| FerriteCore | 减少内存占用 | <https://www.mcmod.cn/class/3888.html> |
+
+# 客户端 Mod
+
+## 视觉类
+
+| Mod | 作用 | 链接 |
+| :-----------: | :-----------: | :-----------: |
+| Farsight | 使你在已到过的区块内拥有比服务端更远的视距 | <https://www.mcmod.cn/class/5224.html> |
+| Embeddium | 渲染 | <https://www.mcmod.cn/class/5224.html> |
+| Oculus | 光影 | <https://www.mcmod.cn/class/5741.html> |
+
+## 功能类
+
+| Mod | 作用 | 链接 |
+| :-----------: | :-----------: | :-----------: |
+| AppleSkin | 食物和饥饿机制相关的 HUD 改进 | <https://www.mcmod.cn/class/744.html> |
+| Inventory Profiles Next | 一键背包整理 | <https://www.mcmod.cn/class/4104.html> |
+| Xaero's Minimap | Xaero 的小地图 | <https://www.mcmod.cn/class/1701.html> |
+| Xaero's World Map | Xaero 的世界地图 | <https://www.mcmod.cn/class/1483.html> |
+| XaeroPlus | Xaero 的地图增强 | <https://www.mcmod.cn/class/11298.html> |
+| MaFgLib | 前置 | <https://www.mcmod.cn/class/10136.html> |
+| Tweakerge | Tweakeroo 的 Forge 移植版 | <https://www.mcmod.cn/class/10906.html> |
+| BoccHUD | MiniHUD 的 Forge 移植版 | <https://www.mcmod.cn/class/10601.html> |
+| Rock'n Roller | 物品滚轮的 Forge 移植版 | <https://www.mcmod.cn/class/11618.html> |
+| Forgematica | Litematica 的 Forge 移植版 | <https://www.mcmod.cn/class/10142.html> |
