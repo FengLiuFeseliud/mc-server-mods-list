@@ -63,6 +63,7 @@
 | 懒人厨房 | <https://www.mcmod.cn/class/468.html> |
 | 潘马斯农场2一套 | <https://www.mcmod.cn/class/2372.html> |
 | 农夫乐事 | <https://www.mcmod.cn/class/2820.html> |
+| CrockPot | <https://www.mcmod.cn/class/3017.html> |
 
 ### 农夫乐事扩展
 
