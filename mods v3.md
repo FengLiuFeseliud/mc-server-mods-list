@@ -4,26 +4,26 @@
 
 | Mod | 链接 |
 | :-----------: | :-----------: |
-| 通用机械 | <https://www.mcmod.cn/class/187.html> |
-| 机械动力 | <https://www.mcmod.cn/class/2021.html> |
-| AE2 | <https://www.mcmod.cn/class/260.html> |
-| 龙之研究 | <https://www.mcmod.cn/class/423.html> |
-| 等价交换 | <https://www.mcmod.cn/class/353.html> |
-| 气动工艺 | <https://www.mcmod.cn/class/353.html> |
-| 神秘农业 | <https://www.mcmod.cn/class/929.html> |
-| 邪恶工艺 | <https://www.mcmod.cn/class/352.html> |
+| 通用机械 | [mcmod](https://www.mcmod.cn/class/187.html) |
+| 机械动力 | [mcmod](https://www.mcmod.cn/class/2021.html) |
+| AE2 | [mcmod](https://www.mcmod.cn/class/260.html) |
+| 龙之研究 | [mcmod](https://www.mcmod.cn/class/423.html) |
+| 气动工艺 | [mcmod](https://www.mcmod.cn/class/353.html) |
+| 邪恶工艺 | [mcmod](https://www.mcmod.cn/class/352.html) |
 
 ### 通用机械扩展
 
 | Mod | 作用 | 链接 |
 | :-----------: | :-----------: | :-----------: |
-| Mekanism Lasers | 更多激光等级，矿物生产 | <https://www.mcmod.cn/class/15949.html> |
-| 通用机械武器 | 通用机械武士刀与弓 | <https://www.mcmod.cn/class/12800.html> |
-| 通用机械工具 | 各种锭和青金石制作的工具护甲。 | <https://www.mcmod.cn/class/1615.html> |
-| 通用机械发电机 | 增加了一系列的发电机。 | <https://www.mcmod.cn/class/1323.html> |
-| 通用机械附加 | 小型怪物、塑料方块、黑曜石TNT、气球 步话机 | <https://www.mcmod.cn/class/2437.html> |
-| Mekanism Turrets & Fences | 炮台和一种可通电的防御栅栏 | <https://www.mcmod.cn/class/15247.html> |
-| 紧凑型虚空采矿机 | 已注册的矿物辞典中随机抽取任意资源 | <https://www.mcmod.cn/class/2781.html> |
+| Mekanism Lasers | 更多激光等级，矿物生产 | [mcmod](https://www.mcmod.cn/class/15949.html) |
+| 通用机械武器 | 通用机械武士刀与弓 | [mcmod](https://www.mcmod.cn/class/12800.html) |
+| 通用机械工具 | 各种锭和青金石制作的工具护甲。 | [mcmod](https://www.mcmod.cn/class/1615.html) |
+| 通用机械发电机 | 增加了一系列的发电机。 | [mcmod](https://www.mcmod.cn/class/1323.html) |
+| 通用机械附加 | 小型怪物、塑料方块、黑曜石TNT、气球 步话机 | [mcmod](https://www.mcmod.cn/class/2437.html) |
+| 通用机械：扩展 | 更多存储方块、管道及机器 | [mcmod](https://www.mcmod.cn/class/10499.html) |
+| Mekanism The Factory Must Grow Compatibility | 添加/更改了超过 85 种配方，以提高通用机械与机械动力：工业长路之间的兼容性 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mekanism-the-factory-must-grow-compatibility) |
+| Mekanism Science | 无限矿石 辐射辐照器 氨和硝酸 氦冷却剂 药物和碘片 高品质混凝土 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mekanism-science) |
+| More Mekanism Processing | 支持将第三方模组中提供的矿石在 Mek 中进行多倍处理 | [mcmod](https://www.mcmod.cn/class/6484.html) |
 
 ### 机械动力扩展
 
@@ -37,9 +37,11 @@
 | Create: Nuke | tnt | <https://www.mcmod.cn/class/14720.html> |
 | [TFMG]机械动力：工业长路 | 机械动力提供更多工业化产品的模组 | <https://www.mcmod.cn/class/8204.html> |
 | [CBC]机械动力：火炮 | 火炮 | <https://www.mcmod.cn/class/7178.html> |
-| Create现代战争火炮 | 火炮 | null |
 | 压缩动力 | 气动工艺和机械动力提供联动。 | <https://www.mcmod.cn/class/6054.html> |
 | [CEI]机械动力：附魔工业 |  | <https://www.mcmod.cn/class/7892.html> |
+| 蒸汽动力 | 蒸汽 | [mcmod](https://www.mcmod.cn/class/4944.html) |
+| 机械动力：精制工艺 | 给 TaC: Zero 中的物品和武器添加了可自动化配方 | [mcmod](https://www.mcmod.cn/class/15107.html) |
+
 
 ### AE2扩展
 
@@ -50,13 +52,6 @@
 | [CAK]机械动力：应用机械 | 实现了对 应用能源2 和 机械动力 的简单集成。 | <https://www.mcmod.cn/class/10546.html> |
 | Applied Flux | 允许你在 ME 网络中储存能量 | <https://www.mcmod.cn/class/13416.html> |
 | 应用厨房 | 连接了应用能源2与懒人厨房 | <https://www.mcmod.cn/class/8232.html> |
-
-### 神秘农业扩展
-
-| Mod | 作用 | 链接 |
-| :-----------: | :-----------: | :-----------: |
-| 神秘农业扩展 | 神秘农业的拓展模组 | <https://www.mcmod.cn/class/1222.html> |
-| 更好的神秘农业 | 种子提取器 | <https://www.mcmod.cn/class/1898.html> |
 
 ## 装饰类
 
@@ -123,6 +118,13 @@
 | 史诗武士 | 武士盔甲套装和武器 | <https://www.mcmod.cn/class/10120.html> |
 | 精妙背包 | 背包 | <https://www.mcmod.cn/class/3739.html> |
 | 车万女仆 | 女仆 | <https://www.mcmod.cn/class/1796.html> |
+| 寂静装备 | 小匠魂 | [mcmod](https://www.mcmod.cn/class/2791.html) |
+
+### 寂静装备扩展
+| Mod | 作用 | 链接 |
+| :-----------: | :-----------: | :-----------: |
+| 寂静宝石 | 添加了 48 种新宝石 | [mcmod](https://www.mcmod.cn/class/1362.html) |
+| 
 
 ## 永恒枪械枪包
 
