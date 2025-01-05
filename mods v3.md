@@ -10,6 +10,7 @@
 | 龙之研究 | [mcmod](https://www.mcmod.cn/class/423.html) |
 | 气动工艺 | [mcmod](https://www.mcmod.cn/class/353.html) |
 | 邪恶工艺 | [mcmod](https://www.mcmod.cn/class/352.html) |
+| 炼金化学 | [mcmod](https://www.mcmod.cn/class/1928.html) |
 
 ### 通用机械扩展
 
@@ -52,6 +53,11 @@
 | [CAK]机械动力：应用机械 | 实现了对 应用能源2 和 机械动力 的简单集成。 | <https://www.mcmod.cn/class/10546.html> |
 | Applied Flux | 允许你在 ME 网络中储存能量 | <https://www.mcmod.cn/class/13416.html> |
 | 应用厨房 | 连接了应用能源2与懒人厨房 | <https://www.mcmod.cn/class/8232.html> |
+| [ae2ct] 合成树 | 合成树显示 | [mcmod](https://www.mcmod.cn/class/16167.html) |
+| Polymorphic Energistics | 以便在相互冲突的合成配方之间进行选择，而不是被迫在 AE2 中只使用这些冲突的合成配方中的一个 | [mcmod](https://www.mcmod.cn/class/14995.html) |
+| [AE2WT]AE2无线终端 | 允许你在世界各地访问无线终端 | [mcmod](https://www.mcmod.cn/class/3712.html) |
+| AE2 Import Export Card | 插入和导出卡 | [mcmod](https://www.mcmod.cn/class/14141.html) |
+| AE2 Alchemistry Addon | AE2 炼金化学拓展 | [mcmod](https://www.mcmod.cn/class/16807.html) |
 
 ## 装饰类
 
@@ -65,15 +71,16 @@
 | Mod | 作用 | 链接 |
 | :-----------: | :-----------: | :-----------: |
 | 僵尸意识 | 僵尸加强 | <https://www.mcmod.cn/class/298.html> |
-| 末日生存工具包 | 感染系统, 流血系统 | <https://www.mcmod.cn/class/9731.html> |
-| 环境污染 | 空气污染问题 | <https://www.mcmod.cn/class/1336.html> |
 | Protect Mobs From Daylight | 让怪物不受日光的影响 | <https://modrinth.com/mod/protect-mobs-from-daylight> |
+| Enhanced AI | Enhanced AI 是一个改变怪物 AI 的模组，让它们变得更危险。 | [mcmod](https://www.mcmod.cn/class/4758.html) |
+| 月亮事件 | 添加一系列月亮事件以丰富原版游戏夜晚的整体环境 | [mcmod](https://www.mcmod.cn/class/3452.html) |
+| 莱特兰-恶意 | 难度渐加+怪物 buff | [mcmod](https://www.mcmod.cn/class/12008.html) |
 
-### 环境污染扩展
+## RPG 类
 
 | Mod | 作用 | 链接 |
 | :-----------: | :-----------: | :-----------: |
-| 高级烟囱 | 烟囱用于排出废气 | <https://www.mcmod.cn/class/1437.html> |
+| 神化 | RPG | [mcmod](https://www.mcmod.cn/class/1708.html) |
 
 ## 食物类
 
@@ -114,17 +121,27 @@
 | :-----------: | :-----------: | :-----------: |
 | 永恒枪械工坊 | 枪 | <https://www.mcmod.cn/class/14980.html> |
 | 简易刀剑 | 刀剑 | <https://www.mcmod.cn/class/7736.html> |
-| 史诗骑士 | 中世纪骑士 | <https://www.mcmod.cn/class/5725.html> |
-| 史诗武士 | 武士盔甲套装和武器 | <https://www.mcmod.cn/class/10120.html> |
 | 精妙背包 | 背包 | <https://www.mcmod.cn/class/3739.html> |
 | 车万女仆 | 女仆 | <https://www.mcmod.cn/class/1796.html> |
 | 寂静装备 | 小匠魂 | [mcmod](https://www.mcmod.cn/class/2791.html) |
+| 莱特兰-扩充 | 合成独立的盔甲和装备，他们都拥有特殊的效果 | [mcmod](https://www.mcmod.cn/class/8797.html) |
+| 莱特兰-背包 | 莱特兰背包 | [mcmod](https://www.mcmod.cn/class/7082.html) |
+| 莱特兰-弓艺 | 提供了部分新的弓和大量的特殊箭矢，您可以将弓和箭矢进行切换搭配已达到最佳伤害或效果 | [mcmod](https://www.mcmod.cn/class/8802.html) |
+| 莱特兰-古遗物 | 拥有数种蕴含力量的古遗物供玩家装配 | [mcmod](https://www.mcmod.cn/class/7128.html) |
+| 潘多拉之咒 | 主要以饰品/小挂坠为主要内容，添加了很多挂坠来增强并改善玩家的游戏体验 | [mcmod](https://www.mcmod.cn/class/13560.html) |
+
+### 永恒枪械扩展
+
+| Mod | 作用 | 链接 |
+| :-----------: | :-----------: | :-----------: |
+| 神化：现代诸神黄昏 | 枪支神化词缀 | [mcmod](https://www.mcmod.cn/class/13455.html) |
+| Enchanted Arsenal | 枪支附魔 | [mcmod](https://www.mcmod.cn/class/13455.html) |
 
 ### 寂静装备扩展
+
 | Mod | 作用 | 链接 |
 | :-----------: | :-----------: | :-----------: |
 | 寂静宝石 | 添加了 48 种新宝石 | [mcmod](https://www.mcmod.cn/class/1362.html) |
-| 
 
 ## 永恒枪械枪包
 
