@@ -81,6 +81,21 @@
 | Mod | 作用 | 链接 |
 | :-----------: | :-----------: | :-----------: |
 | 神化 | RPG | [mcmod](https://www.mcmod.cn/class/1708.html) |
+| Apotheotic Additions | 神化附加 | [mcmod](https://www.mcmod.cn/class/14269.html) |
+| [AM]Alex 的生物 | 生物 | [mcmod](https://www.mcmod.cn/class/3318.html) |
+| Alex 的洞穴 | 洞穴 Boss | [mcmod](https://www.mcmod.cn/class/12592.html) |
+| 被动技能树 | 技能树 | [mcmod](https://www.mcmod.cn/class/10961.html) |
+| 永恒之门 | 打开一道传送门，召唤生物会按进度批次从中出现，其数量与难度会随之提升 | [mcmod](https://www.mcmod.cn/class/7522.html) |
+| [IAF]冰火传说 | 龙 | [mcmod](https://www.mcmod.cn/class/770.html) |
+| Ice and Fire: Dragonseeker | 更快的找到龙穴 | [mcmod](https://www.mcmod.cn/class/4904.html) |
+| 灾变 L_Ender 's Cataclysm | boss | [mcmod](https://www.mcmod.cn/class/5214.html) |
+
+### 灾变扩展
+
+| Mod | 作用 | 链接 |
+| :-----------: | :-----------: | :-----------: |
+| Cataclysmic Combat | 灾变 Better Combat 兼容 | [mcmod](https://www.mcmod.cn/class/10879.html) |
+| Cataclysmic Illagers | 灾变扩为原型设计的灾厄村民 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cataclysmic-illagers) |
 
 ## 食物类
 
@@ -100,6 +115,8 @@
 | 料理乐事 | 炒锅 | <https://www.mcmod.cn/class/11405.html> |
 | 矿工乐事 | 矿工玩家美食 | <https://www.mcmod.cn/class/8216.html> |
 | 海洋乐事 | 海产方面添加更多的内容 | <https://www.mcmod.cn/class/9830.html> |
+| Alex 的洞穴乐事 | 洞穴美食 | [mcmod](https://www.mcmod.cn/class/15418.html) |
+| 神秘佳肴 | 神秘遗物乐事 | [mcmod](https://www.mcmod.cn/class/12900.html) |
 
 ## 结构类
 
@@ -129,6 +146,7 @@
 | 莱特兰-弓艺 | 提供了部分新的弓和大量的特殊箭矢，您可以将弓和箭矢进行切换搭配已达到最佳伤害或效果 | [mcmod](https://www.mcmod.cn/class/8802.html) |
 | 莱特兰-古遗物 | 拥有数种蕴含力量的古遗物供玩家装配 | [mcmod](https://www.mcmod.cn/class/7128.html) |
 | 潘多拉之咒 | 主要以饰品/小挂坠为主要内容，添加了很多挂坠来增强并改善玩家的游戏体验 | [mcmod](https://www.mcmod.cn/class/13560.html) |
+| 神秘遗物 | 激励你去探索的新资源，强大的装备和古老的遗物 | [mcmod](https://www.mcmod.cn/class/2239.html) |
 
 ### 永恒枪械扩展
 
@@ -151,6 +169,8 @@
 
 | Mod | 作用 | 链接 |
 | :-----------: | :-----------: | :-----------: |
+| Enchant With Mob | 生物附魔 | [mcmod](https://www.mcmod.cn/class/3443.html) |
+| 驯养革新 |为 Minecraft 的宠物系统作了大量的修改 | [mcmod](https://www.mcmod.cn/class/5827.html) |
 | GORE-EDITION | 血腥 | <https://www.curseforge.com/minecraft/mc-mods/gore-edition> |
 | Better Combat | 更好的战斗 | <https://www.mcmod.cn/class/7110.html> |
 | ChatImage | 聊天栏图片显示 | <https://www.mcmod.cn/class/9111.html> |
