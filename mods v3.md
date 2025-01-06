@@ -81,7 +81,6 @@
 | Mod | 作用 | 链接 |
 | :-----------: | :-----------: | :-----------: |
 | 神化 | RPG | [mcmod](https://www.mcmod.cn/class/1708.html) |
-| Apotheotic Additions | 神化附加 | [mcmod](https://www.mcmod.cn/class/14269.html) |
 | [AM]Alex 的生物 | 生物 | [mcmod](https://www.mcmod.cn/class/3318.html) |
 | Alex 的洞穴 | 洞穴 Boss | [mcmod](https://www.mcmod.cn/class/12592.html) |
 | 被动技能树 | 技能树 | [mcmod](https://www.mcmod.cn/class/10961.html) |
@@ -89,6 +88,16 @@
 | [IAF]冰火传说 | 龙 | [mcmod](https://www.mcmod.cn/class/770.html) |
 | Ice and Fire: Dragonseeker | 更快的找到龙穴 | [mcmod](https://www.mcmod.cn/class/4904.html) |
 | 灾变 L_Ender 's Cataclysm | boss | [mcmod](https://www.mcmod.cn/class/5214.html) |
+| [MM]Mutant Monsters | 突变怪物 | [mcmod](https://www.mcmod.cn/class/10081.html) |
+| [MMobs]Mowzie的生物 | boos | [mcmod](https://www.mcmod.cn/class/984.html) |
+
+### 神化扩展
+
+| Mod | 作用 | 链接 |
+| :-----------: | :-----------: | :-----------: |
+| Apotheotic Additions | 神化附加 | [mcmod](https://www.mcmod.cn/class/14269.html) |
+| Ancient Reforging | 将工具重铸到远古品质 | [mcmod](https://www.mcmod.cn/class/16348.html) |
+| Apothic Curios | 饰品具有神化的词缀和镶孔 | [mcmod](https://www.mcmod.cn/class/13606.html) |
 
 ### 灾变扩展
 
@@ -124,6 +133,8 @@
 | :-----------: | :-----------: |
 | 失落的城市 | <https://www.mcmod.cn/class/1295.html> |
 | 失落的灵魂 | <https://www.mcmod.cn/class/1774.html> |
+| 结构变体 | [mcmod](https://www.mcmod.cn/class/4518.html) |
+
 
 ## 群系类
 
@@ -147,6 +158,7 @@
 | 莱特兰-古遗物 | 拥有数种蕴含力量的古遗物供玩家装配 | [mcmod](https://www.mcmod.cn/class/7128.html) |
 | 潘多拉之咒 | 主要以饰品/小挂坠为主要内容，添加了很多挂坠来增强并改善玩家的游戏体验 | [mcmod](https://www.mcmod.cn/class/13560.html) |
 | 神秘遗物 | 激励你去探索的新资源，强大的装备和古老的遗物 | [mcmod](https://www.mcmod.cn/class/2239.html) |
+| 遗物 | 饰品/小挂坠 | [mcmod](https://www.mcmod.cn/class/4816.html) |
 
 ### 永恒枪械扩展
 
